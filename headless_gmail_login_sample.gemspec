@@ -36,4 +36,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "capybara"
   spec.add_development_dependency "selenium-webdriver"
   spec.add_development_dependency "chromedriver-helper"
+  spec.add_development_dependency "dotenv"
 end
